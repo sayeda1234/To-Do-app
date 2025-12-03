@@ -1,17 +1,34 @@
-To-Do App
+📝 To-Do App
 
-A simple To-Do List App built using HTML, CSS, and JavaScript.
-Designed for beginners who want to understand DOM manipulation and basic UI design.
+A clean and simple To-Do List application built using HTML, CSS, and JavaScript.
+Perfect for beginners learning DOM manipulation and event handling.
 
-FOLDER STRUCTURE
+⭐ Features
+
+✔ Add New Tasks
+✔ Delete Tasks
+✔ Clean & Minimal UI
+✔ Beginner-Friendly JavaScript
+✔ Works in Any Browser
+
+
+📁 Folder Structure
 .
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── index.html     # Main HTML file
+├── style.css      # Stylesheet
+├── script.js      # JavaScript logic
+└── README.md      # Documentation
 
-How to Run the Project
-1. Download or clone the repository:
-   git clone https://github.com/yourusername/todo-app.git
-2. Open index.html in your browser.
-3. Start adding your tasks!
+🚀 How to Run the Project
+1️⃣ Clone the Repository
+git clone https://github.com/yourusername/todo-app.git
+
+2️⃣ Open the Project
+
+Just double-click index.html
+or right-click → Open with Browser.
+
+3️⃣ Start Using the App
+
+Add your tasks and manage your to-do list easily!
+
