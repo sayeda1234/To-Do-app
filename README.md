@@ -11,14 +11,6 @@ Perfect for beginners learning DOM manipulation and event handling.
 - ✔ Beginner-Friendly JavaScript
 - ✔ Works in Any Browser
 
-
-## 📁 Folder Structure
-.
-├── index.html     # Main HTML file
-├── style.css      # Stylesheet
-├── script.js      # JavaScript logic
-└── README.md      # Documentation
-
 ## 🚀 How to Run the Project
  ### 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/todo-app.git
